@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Handlers</string>
+    <string name="button_will_appear_after_10_seconds">Button will appear after 10 seconds</string>
+    <string name="click_me">Click_me</string>
+</resources>
